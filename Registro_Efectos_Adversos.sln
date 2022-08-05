@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Registro_Efectos_Adversos", "Registro_Efectos_Adversos.csproj", "{10EAACEA-9C38-467B-914A-87BAD6B6D5A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vistas", "..\Vistas\Vistas.csproj", "{A27C825B-5F06-41F7-9297-C5E1C7F03AED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10EAACEA-9C38-467B-914A-87BAD6B6D5A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10EAACEA-9C38-467B-914A-87BAD6B6D5A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10EAACEA-9C38-467B-914A-87BAD6B6D5A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10EAACEA-9C38-467B-914A-87BAD6B6D5A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A27C825B-5F06-41F7-9297-C5E1C7F03AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A27C825B-5F06-41F7-9297-C5E1C7F03AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A27C825B-5F06-41F7-9297-C5E1C7F03AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A27C825B-5F06-41F7-9297-C5E1C7F03AED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F24B37C9-C156-4BA6-AE37-EE5D3CBFDD96}
+	EndGlobalSection
+EndGlobal
